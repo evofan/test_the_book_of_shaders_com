@@ -10,7 +10,7 @@ reference
 Fractalsの前まで、Fractals以降は未訳なので英語版に当たる ⇒ 元版も未作成  
 
 testing environment  
-<img src="https://github.com/evofan/test_the_book_of_shaders_com/blob/main/screenshot/pic_vsc_glsl_canvas.jpg" width="50%">  
+<img src="https://raw.githubusercontent.com/evofan/test_the_book_of_shaders_com/main/screenshot/pic_vsc_glsl_canvas.jpg" width="50%">  
 Visual Studio Code + glsl-canvas  
 CTRL + SHIFT + P -> → Show glslCanvas  
 
